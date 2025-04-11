@@ -363,5 +363,40 @@
       { "NAME": "Torn fresh basil, for serving" },
       { "NAME": "Balsamic glaze, for drizzling" }
     ]
+  },
+  {
+    "id": 17,
+    "title": "Risalamande",
+    "picture_url": "https://www.valdemarsro.dk/wp-content/2012/11/ris-ala-mande.jpg",
+    "preparation_time": "50 mins",
+    "total_time": "4 hours",
+    "yield": "5-6 servings",
+    "ingredients": [
+      { "NAME": "1 lt whole milk" },
+      { "NAME": "180 gr rice porridge" },
+      { "NAME": "1 vanilla pod" },
+      { "NAME": "70 gr sugar" },
+      { "NAME": "100 gr almonds" },
+      { "NAME": "1 pinch salt" },
+      { "NAME": "400 ml whipping cream" }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Gløgg",
+    "picture_url": "https://gourministeriet.dk/wp-content/uploads/2024/11/IMG_6017-scaled.jpg",
+    "preparation_time": "30 mins",
+    "total_time": "4 hours",
+    "yield": "5-6 servings",
+    "ingredients": [
+      { "NAME": "500 ml orange zest" },
+      { "NAME": "200 ml water" },
+      { "NAME": "275 gr sugar" },
+      { "NAME": "5 whole cloves" },
+      { "NAME": "2 cinnamon sticks" },
+      { "NAME": "Spice", "AMOUNT": null },
+      { "NAME": "100 gr raisins" },
+      { "NAME": "50 gr slipped almonds" }
+    ]
   }
 ]
